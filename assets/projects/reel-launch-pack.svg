@@ -1,0 +1,26 @@
+<svg width="960" height="720" viewBox="0 0 960 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="960" height="720" rx="34" fill="#FFF1E4"/>
+  <rect x="110" y="84" width="220" height="552" rx="32" fill="#131720"/>
+  <rect x="370" y="84" width="220" height="552" rx="32" fill="#131720"/>
+  <rect x="630" y="84" width="220" height="552" rx="32" fill="#131720"/>
+  <rect x="128" y="124" width="184" height="468" rx="24" fill="url(#a)"/>
+  <rect x="388" y="124" width="184" height="468" rx="24" fill="url(#b)"/>
+  <rect x="648" y="124" width="184" height="468" rx="24" fill="url(#c)"/>
+  <text x="220" y="516" text-anchor="middle" fill="white" font-size="26" font-family="Segoe UI, Arial, sans-serif" font-weight="700">Hook</text>
+  <text x="480" y="516" text-anchor="middle" fill="white" font-size="26" font-family="Segoe UI, Arial, sans-serif" font-weight="700">Captions</text>
+  <text x="740" y="516" text-anchor="middle" fill="white" font-size="26" font-family="Segoe UI, Arial, sans-serif" font-weight="700">CTA</text>
+  <defs>
+    <linearGradient id="a" x1="128" y1="124" x2="312" y2="592" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#3D1A4D"/>
+      <stop offset="1" stop-color="#FF6FA5"/>
+    </linearGradient>
+    <linearGradient id="b" x1="388" y1="124" x2="572" y2="592" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0A4D5E"/>
+      <stop offset="1" stop-color="#3DE0D5"/>
+    </linearGradient>
+    <linearGradient id="c" x1="648" y1="124" x2="832" y2="592" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#C55325"/>
+      <stop offset="1" stop-color="#FFD086"/>
+    </linearGradient>
+  </defs>
+</svg>

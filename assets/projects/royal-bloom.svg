@@ -1,0 +1,22 @@
+<svg width="960" height="720" viewBox="0 0 960 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="960" height="720" rx="34" fill="#FFF5EF"/>
+  <rect x="44" y="44" width="872" height="632" rx="28" fill="url(#a)"/>
+  <rect x="126" y="112" width="708" height="496" rx="24" fill="rgba(255,255,255,0.18)" stroke="rgba(255,255,255,0.45)" stroke-width="2"/>
+  <circle cx="170" cy="158" r="36" fill="#FFD9C6"/>
+  <circle cx="794" cy="158" r="36" fill="#FFC9AF"/>
+  <circle cx="170" cy="562" r="36" fill="#FFC9AF"/>
+  <circle cx="794" cy="562" r="36" fill="#FFD9C6"/>
+  <text x="480" y="208" text-anchor="middle" fill="white" font-size="26" font-family="Segoe UI, Arial, sans-serif" letter-spacing="8">WEDDING INVITATION</text>
+  <text x="480" y="308" text-anchor="middle" fill="white" font-size="68" font-family="Georgia, serif" font-weight="700">Royal Bloom</text>
+  <text x="480" y="364" text-anchor="middle" fill="#FBEDE5" font-size="28" font-family="Segoe UI, Arial, sans-serif">Aarav and Diya</text>
+  <text x="480" y="448" text-anchor="middle" fill="white" font-size="26" font-family="Segoe UI, Arial, sans-serif">12 July | 7:30 PM | The Grand Venue</text>
+  <rect x="320" y="500" width="320" height="56" rx="28" fill="rgba(255,255,255,0.18)"/>
+  <text x="480" y="536" text-anchor="middle" fill="white" font-size="24" font-family="Segoe UI, Arial, sans-serif">Elegant mobile share format</text>
+  <defs>
+    <linearGradient id="a" x1="44" y1="44" x2="916" y2="676" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8D2342"/>
+      <stop offset="0.56" stop-color="#DD6A40"/>
+      <stop offset="1" stop-color="#F8CFAF"/>
+    </linearGradient>
+  </defs>
+</svg>

@@ -1,0 +1,25 @@
+<svg width="960" height="720" viewBox="0 0 960 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="960" height="720" rx="34" fill="#FFF6EF"/>
+  <rect x="72" y="78" width="816" height="564" rx="30" fill="#FFFFFF" stroke="#F0DDCD" stroke-width="2"/>
+  <rect x="108" y="112" width="228" height="496" rx="22" fill="url(#a)"/>
+  <rect x="366" y="112" width="228" height="496" rx="22" fill="#FFF8F3"/>
+  <rect x="624" y="112" width="228" height="496" rx="22" fill="#FFF2E8"/>
+  <text x="154" y="176" fill="white" font-size="34" font-family="Segoe UI, Arial, sans-serif" font-weight="800">PROEDGE</text>
+  <text x="154" y="222" fill="#FCE6D6" font-size="20" font-family="Segoe UI, Arial, sans-serif">Service brochure</text>
+  <text x="398" y="180" fill="#B45B20" font-size="26" font-family="Segoe UI, Arial, sans-serif" font-weight="700">Services</text>
+  <text x="656" y="180" fill="#B45B20" font-size="26" font-family="Segoe UI, Arial, sans-serif" font-weight="700">Contact</text>
+  <rect x="398" y="220" width="160" height="16" rx="8" fill="#F1CAA6"/>
+  <rect x="398" y="252" width="124" height="16" rx="8" fill="#F1CAA6"/>
+  <rect x="398" y="324" width="160" height="16" rx="8" fill="#F1CAA6"/>
+  <rect x="398" y="356" width="124" height="16" rx="8" fill="#F1CAA6"/>
+  <rect x="656" y="220" width="150" height="16" rx="8" fill="#F3C5A1"/>
+  <rect x="656" y="252" width="132" height="16" rx="8" fill="#F3C5A1"/>
+  <rect x="656" y="324" width="170" height="16" rx="8" fill="#F3C5A1"/>
+  <rect x="656" y="356" width="120" height="16" rx="8" fill="#F3C5A1"/>
+  <defs>
+    <linearGradient id="a" x1="108" y1="112" x2="336" y2="608" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#A43D1A"/>
+      <stop offset="1" stop-color="#F29B4D"/>
+    </linearGradient>
+  </defs>
+</svg>

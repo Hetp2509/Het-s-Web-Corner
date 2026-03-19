@@ -1,0 +1,21 @@
+<svg width="960" height="720" viewBox="0 0 960 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="960" height="720" rx="34" fill="#F0FAF7"/>
+  <rect x="72" y="84" width="360" height="552" rx="30" fill="url(#a)"/>
+  <rect x="470" y="84" width="418" height="260" rx="30" fill="#FFFFFF" stroke="#DCEBE7" stroke-width="2"/>
+  <rect x="470" y="376" width="418" height="260" rx="30" fill="#FFFFFF" stroke="#DCEBE7" stroke-width="2"/>
+  <circle cx="252" cy="218" r="76" fill="rgba(255,255,255,0.18)"/>
+  <text x="252" y="354" text-anchor="middle" fill="white" font-size="42" font-family="Segoe UI, Arial, sans-serif" font-weight="800">Creator</text>
+  <text x="252" y="402" text-anchor="middle" fill="#E6FFFA" font-size="24" font-family="Segoe UI, Arial, sans-serif">Brand Kit</text>
+  <text x="514" y="156" fill="#26504A" font-size="24" font-family="Segoe UI, Arial, sans-serif" letter-spacing="4">MEDIA KIT PAGE</text>
+  <text x="514" y="226" fill="#1F3E3A" font-size="48" font-family="Segoe UI, Arial, sans-serif" font-weight="800">Profile + highlights</text>
+  <text x="514" y="448" fill="#26504A" font-size="24" font-family="Segoe UI, Arial, sans-serif" letter-spacing="4">SOCIAL ELEMENTS</text>
+  <rect x="514" y="486" width="146" height="16" rx="8" fill="#B8E0D6"/>
+  <rect x="514" y="518" width="210" height="16" rx="8" fill="#B8E0D6"/>
+  <rect x="514" y="550" width="182" height="16" rx="8" fill="#B8E0D6"/>
+  <defs>
+    <linearGradient id="a" x1="72" y1="84" x2="432" y2="636" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#104942"/>
+      <stop offset="1" stop-color="#55B7A8"/>
+    </linearGradient>
+  </defs>
+</svg>

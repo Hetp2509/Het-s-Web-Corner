@@ -1,0 +1,21 @@
+<svg width="960" height="720" viewBox="0 0 960 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="960" height="720" rx="34" fill="#EEF4EF"/>
+  <rect x="58" y="58" width="844" height="604" rx="30" fill="#FFFFFF" stroke="#DCE8DF" stroke-width="2"/>
+  <rect x="94" y="102" width="388" height="236" rx="24" fill="url(#a)"/>
+  <rect x="514" y="102" width="352" height="236" rx="24" fill="#F7FBF8"/>
+  <rect x="94" y="372" width="254" height="214" rx="24" fill="#E5F0EA"/>
+  <rect x="380" y="372" width="244" height="214" rx="24" fill="#D8E7DE"/>
+  <rect x="656" y="372" width="210" height="214" rx="24" fill="#B8D1C2"/>
+  <text x="544" y="164" fill="#24443D" font-size="24" font-family="Segoe UI, Arial, sans-serif" letter-spacing="4">INTERIOR PRESENTATION</text>
+  <text x="544" y="232" fill="#1D352F" font-size="54" font-family="Segoe UI, Arial, sans-serif" font-weight="800">Mood Showcase</text>
+  <text x="544" y="274" fill="#4F6E66" font-size="22" font-family="Segoe UI, Arial, sans-serif">Room layout, tones and concept notes</text>
+  <rect x="544" y="308" width="110" height="16" rx="8" fill="#B7CCBE"/>
+  <rect x="670" y="308" width="110" height="16" rx="8" fill="#7F9A8C"/>
+  <rect x="796" y="308" width="44" height="16" rx="8" fill="#47675B"/>
+  <defs>
+    <linearGradient id="a" x1="94" y1="102" x2="482" y2="338" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#335149"/>
+      <stop offset="1" stop-color="#92C2B1"/>
+    </linearGradient>
+  </defs>
+</svg>

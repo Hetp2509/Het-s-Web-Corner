@@ -1,0 +1,24 @@
+<svg width="960" height="720" viewBox="0 0 960 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="960" height="720" rx="34" fill="#EAF8F7"/>
+  <rect x="42" y="56" width="876" height="608" rx="28" fill="#ffffff" stroke="#D4E7E4" stroke-width="2"/>
+  <rect x="42" y="56" width="876" height="72" rx="28" fill="#103C54"/>
+  <circle cx="102" cy="92" r="10" fill="#FF7B7B"/>
+  <circle cx="134" cy="92" r="10" fill="#F8C14A"/>
+  <circle cx="166" cy="92" r="10" fill="#5ED4A6"/>
+  <rect x="86" y="170" width="788" height="190" rx="26" fill="url(#a)"/>
+  <rect x="86" y="404" width="246" height="168" rx="22" fill="#EFF8F7"/>
+  <rect x="356" y="404" width="246" height="168" rx="22" fill="#EFF8F7"/>
+  <rect x="626" y="404" width="248" height="168" rx="22" fill="#EFF8F7"/>
+  <text x="122" y="230" fill="white" font-size="24" font-family="Segoe UI, Arial, sans-serif" letter-spacing="4">COACHING LANDING PAGE</text>
+  <text x="122" y="296" fill="white" font-size="58" font-family="Segoe UI, Arial, sans-serif" font-weight="800">StudyHub</text>
+  <text x="122" y="336" fill="#D7F6F3" font-size="24" font-family="Segoe UI, Arial, sans-serif">Courses, results, trust points and CTA</text>
+  <rect x="122" y="382" width="180" height="44" rx="22" fill="rgba(255,255,255,0.18)"/>
+  <text x="212" y="410" text-anchor="middle" fill="white" font-size="20" font-family="Segoe UI, Arial, sans-serif">Enroll now</text>
+  <defs>
+    <linearGradient id="a" x1="86" y1="170" x2="874" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#06364B"/>
+      <stop offset="0.54" stop-color="#176D84"/>
+      <stop offset="1" stop-color="#68D1C7"/>
+    </linearGradient>
+  </defs>
+</svg>

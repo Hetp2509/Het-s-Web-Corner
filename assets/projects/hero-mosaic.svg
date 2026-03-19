@@ -1,0 +1,36 @@
+<svg width="1200" height="900" viewBox="0 0 1200 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="900" rx="40" fill="#F9F2E8"/>
+  <rect x="46" y="46" width="1108" height="808" rx="32" fill="#FFF9F3"/>
+  <rect x="88" y="96" width="482" height="316" rx="30" fill="url(#a)"/>
+  <rect x="630" y="96" width="482" height="316" rx="30" fill="url(#b)"/>
+  <rect x="88" y="488" width="482" height="274" rx="30" fill="url(#c)"/>
+  <rect x="630" y="488" width="482" height="274" rx="30" fill="url(#d)"/>
+  <text x="128" y="158" fill="white" font-size="38" font-family="Segoe UI, Arial, sans-serif" font-weight="700">Invitation</text>
+  <text x="128" y="208" fill="white" font-size="28" font-family="Segoe UI, Arial, sans-serif">Elegant event styling</text>
+  <text x="670" y="158" fill="white" font-size="38" font-family="Segoe UI, Arial, sans-serif" font-weight="700">Website</text>
+  <text x="670" y="208" fill="white" font-size="28" font-family="Segoe UI, Arial, sans-serif">Responsive landing pages</text>
+  <text x="128" y="550" fill="#223635" font-size="38" font-family="Segoe UI, Arial, sans-serif" font-weight="700">Branding</text>
+  <text x="128" y="600" fill="#355654" font-size="28" font-family="Segoe UI, Arial, sans-serif">Brochure and identity visuals</text>
+  <text x="670" y="550" fill="#371816" font-size="38" font-family="Segoe UI, Arial, sans-serif" font-weight="700">Reels</text>
+  <text x="670" y="600" fill="#5E2D23" font-size="28" font-family="Segoe UI, Arial, sans-serif">Short-form promo edits</text>
+  <defs>
+    <linearGradient id="a" x1="88" y1="96" x2="570" y2="412" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#9A2444"/>
+      <stop offset="0.56" stop-color="#E06B43"/>
+      <stop offset="1" stop-color="#FFDAB4"/>
+    </linearGradient>
+    <linearGradient id="b" x1="630" y1="96" x2="1112" y2="412" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#072F45"/>
+      <stop offset="0.56" stop-color="#1B6D86"/>
+      <stop offset="1" stop-color="#83D9D1"/>
+    </linearGradient>
+    <linearGradient id="c" x1="88" y1="488" x2="570" y2="762" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#E8FFF7"/>
+      <stop offset="1" stop-color="#BBE9DB"/>
+    </linearGradient>
+    <linearGradient id="d" x1="630" y1="488" x2="1112" y2="762" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFE4C8"/>
+      <stop offset="1" stop-color="#F39D57"/>
+    </linearGradient>
+  </defs>
+</svg>

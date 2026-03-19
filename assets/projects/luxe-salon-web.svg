@@ -1,0 +1,22 @@
+<svg width="960" height="720" viewBox="0 0 960 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="960" height="720" rx="34" fill="#F7EEE4"/>
+  <rect x="44" y="56" width="872" height="608" rx="28" fill="#1D1613"/>
+  <rect x="44" y="56" width="872" height="72" rx="28" fill="#2A1F18"/>
+  <circle cx="104" cy="92" r="10" fill="#8D6B54"/>
+  <circle cx="136" cy="92" r="10" fill="#AA8455"/>
+  <circle cx="168" cy="92" r="10" fill="#F0D09B"/>
+  <rect x="96" y="160" width="768" height="220" rx="26" fill="url(#a)"/>
+  <rect x="96" y="418" width="236" height="168" rx="22" fill="#2D231D"/>
+  <rect x="362" y="418" width="236" height="168" rx="22" fill="#2D231D"/>
+  <rect x="628" y="418" width="236" height="168" rx="22" fill="#2D231D"/>
+  <text x="136" y="228" fill="#FFF5E5" font-size="24" font-family="Segoe UI, Arial, sans-serif" letter-spacing="4">PREMIUM SERVICE WEBSITE</text>
+  <text x="136" y="296" fill="white" font-size="58" font-family="Georgia, serif" font-weight="700">Luxe Salon</text>
+  <text x="136" y="340" fill="#F0DDBF" font-size="24" font-family="Segoe UI, Arial, sans-serif">Package cards, testimonials and booking CTA</text>
+  <defs>
+    <linearGradient id="a" x1="96" y1="160" x2="864" y2="380" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#332821"/>
+      <stop offset="0.54" stop-color="#9F7A4C"/>
+      <stop offset="1" stop-color="#F5D5A4"/>
+    </linearGradient>
+  </defs>
+</svg>
